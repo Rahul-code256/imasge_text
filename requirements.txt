@@ -8,3 +8,4 @@ requests
 streamlit
 langchain_community
 torchaudio
+PragyanAI_Transperent_github.png
